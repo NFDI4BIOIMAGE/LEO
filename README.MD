@@ -16,7 +16,7 @@ At the beginning , LEO was planned to integrate only electronic lab notebooks (E
 >Figure 1: Proposed architecture of LEO and workflows (request and linking creation).
 
 ## User manual
-The user manual can be found at the following link : https://omelab-redg-448f84d12fc64c82920d8637d266da1a8cfb8475505579a70ce.pages.photonicdata.science/
+The user manual can be found at the following link : https://redg.pages.photonicdata.science/omelab
 
 ## Admin manual
 
